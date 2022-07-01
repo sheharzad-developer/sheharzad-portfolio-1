@@ -70,35 +70,6 @@ const PortfolioSlider = () => {
                         </div>
                     </div>
                 </div>
-                <div className="row">
-                    <div className='col-sm-4'>
-                        <div className="PortfolioBox">
-                            <img src={WebDevelopment} />
-                            <div class="PortfolioText">
-                                <h2>Web Development</h2>
-                                <Button>Open</Button>
-                            </div>
-                        </div>
-                    </div>
-                    <div className='col-sm-4'>
-                        <div className="PortfolioBox">
-                            <img src={WebDevelopment} />
-                            <div class="PortfolioText">
-                                <h2>Web Development</h2>
-                                <Button>Open</Button>
-                            </div>
-                        </div>
-                    </div>
-                    <div className='col-sm-4'>
-                        <div className="PortfolioBox">
-                            <img src={WebDevelopment} />
-                            <div class="PortfolioText">
-                                <h2>Web Development</h2>
-                                <Button>Open</Button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
             </div>
         </Container>
 
