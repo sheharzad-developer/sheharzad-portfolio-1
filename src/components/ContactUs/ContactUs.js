@@ -19,7 +19,7 @@ const ContactUs = () => {
                         </div>
                         <div className="col-sm-6">
                             <div className="ContactTitle">
-                                <span>Email: <p>sheharzad.salahuddin@outlook.com</p></span>
+                                <span>Email: <p><a href="mailto:sheharzad.salahuddin9000@outlook.com">sheharzad.salahuddin9000@outlook.com</a></p></span>
                             </div>
                         </div>
                     </div>

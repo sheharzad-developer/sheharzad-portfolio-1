@@ -14,21 +14,24 @@
 }
 
 .PortfolioBox {
-    height:300px;
-    margin-bottom:20px;
+    height: 300px;
+    margin-bottom: 20px !important;
     border: 1px solid #000;
     background-color: brown;
+    width: 100%;
+    margin: 0 auto;
 }
 
 .PortfolioBox img {
-    width:348px;
+    width: 100%;
 }
+
 .PortfolioText {
     margin: 15px 0 0 0;
-    
+
 }
 
 .PortfolioText h2 {
-    font-size:20px;
-    color:white;
+    font-size: 20px;
+    color: white;
 }
