@@ -18,7 +18,7 @@ const PortfolioSlider = () => {
                             <img src={WebDevelopment} />
                             <div class="PortfolioText">
                                 <h2>Web Development</h2>
-                                <Button>Open</Button>
+                                <Button className="openButton">Open</Button>
                             </div>
                         </div>
                     </div>
@@ -27,7 +27,7 @@ const PortfolioSlider = () => {
                             <img src={WebDevelopment} />
                             <div class="PortfolioText">
                                 <h2>Web Development</h2>
-                                <Button>Open</Button>
+                                <Button className="openButton">Open</Button>
                             </div>
                         </div>
                     </div>
@@ -36,7 +36,7 @@ const PortfolioSlider = () => {
                             <img src={WebDevelopment} />
                             <div class="PortfolioText">
                                 <h2>Web Development</h2>
-                                <Button>Open</Button>
+                                <Button className="openButton">Open</Button>
                             </div>
                         </div>
                     </div>
@@ -47,7 +47,7 @@ const PortfolioSlider = () => {
                             <img src={WebDevelopment} />
                             <div class="PortfolioText">
                                 <h2>Web Development</h2>
-                                <Button>Open</Button>
+                                <Button className="openButton">Open</Button>
                             </div>
                         </div>
                     </div>
@@ -56,7 +56,7 @@ const PortfolioSlider = () => {
                             <img src={WebDevelopment} />
                             <div class="PortfolioText">
                                 <h2>Web Development</h2>
-                                <Button>Open</Button>
+                                <Button className="openButton">Open</Button>
                             </div>
                         </div>
                     </div>
@@ -65,7 +65,7 @@ const PortfolioSlider = () => {
                             <img src={WebDevelopment} />
                             <div class="PortfolioText">
                                 <h2>Web Development</h2>
-                                <Button>Open</Button>
+                                <Button className="openButton">Open</Button>
                             </div>
                         </div>
                     </div>

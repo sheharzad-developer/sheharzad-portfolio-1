@@ -35,3 +35,21 @@
     font-size: 20px;
     color: white;
 }
+
+.btn.btn-primary.btn-lg:hover {
+    padding: .5rem 1rem;
+}
+
+.btn.btn-primary {
+    padding: 5px 18px;
+}
+
+.btn.btn-primary:hover {
+    padding: 5px 18px;
+    color: red !important;
+}
+
+.openButton.btn.btn-primary {
+    padding: 5px 15px;
+    margin-top: 3px;
+}
